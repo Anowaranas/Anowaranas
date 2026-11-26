@@ -3,7 +3,7 @@
 <p align="center"><i>Building simple, useful apps that make everyday life easier — শূন্য থেকে শুরু।</i></p>
 
 🌐 **আমার সব অ্যাপ একসাথে:** [anowaranas.github.io](https://anowaranas.github.io/)
-https://anowaranas.github.io/
+
 
 ---
 
