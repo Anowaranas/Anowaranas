@@ -47,6 +47,6 @@
 ### 🌐 Find Me
 
 - 📧 Email: anowar.hossain78699@gmail.com
-- 📘 Facebook Page: [শূন্য](https://www.facebook.com/kholanews)
+- 📘 Facebook: [Anuwar Hossen](https://www.facebook.com/anuwar78699)
 
 <p align="center"><i>“শূন্য থেকে শুরু মানেই হেরে যাওয়া নয় — এখান থেকেই শুরু হয় আসল গল্প।”</i></p>
