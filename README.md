@@ -19,8 +19,8 @@
 
 | App | What it does | Links |
 | --- | --- | --- |
-| 💰 **পকেট হিসাব (Pocket Hisab)** | Personal income & expense tracker in Bengali | [Website](https://anowaranas.github.io/pokethisab/) · [Download APK](https://github.com/Anowaranas/pokethisab/releases/tag/v5.0) |
-| 🥚 **ডিমের হিসাব (Dimer Hisab)** | Egg business ledger — sales, dues, stock and profit for egg traders | [Google Play](https://play.google.com/store/apps/details?id=com.aistudio.dimerhisab.egghub) · [Website](https://anowaranas.github.io/dimerhisab/) |
+| 💰 **পকেট হিসাব (Pocket Hisab)** | Personal income & expense tracker in Bengali | [Website](https://anowaranas.is-a.dev/pokethisab/) · [Download APK](https://github.com/Anowaranas/pokethisab/releases/tag/v5.0) |
+| 🥚 **ডিমের হিসাব (Dimer Hisab)** | Egg business ledger — sales, dues, stock and profit for egg traders | [Google Play](https://play.google.com/store/apps/details?id=com.aistudio.dimerhisab.egghub) · [Website](https://anowaranas.is-a.dev/dimerhisab/) |
 
 ### 🛠️ Languages & Tools
 
