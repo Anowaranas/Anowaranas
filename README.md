@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Anuwar Hossen</h1>
+<h1 align="center">Hi there 👋, I'm আনোয়ার হোসেন আনাস</h1>
 <h3 align="center">📱 Android App Developer from Bangladesh 🇧🇩</h3>
 <p align="center"><i>Building simple, useful apps that make everyday life easier — শূন্য থেকে শুরু।</i></p>
 
@@ -37,7 +37,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anowaranas&show_icons=true&theme=radical" alt="Anuwar's GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Anowaranas&show_icons=true&theme=radical" alt="আনোয়ার হোসেন আনাসের GitHub stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anowaranas&layout=compact&theme=radical" alt="Top languages" height="165"/>
 </p>
 <p align="center">
