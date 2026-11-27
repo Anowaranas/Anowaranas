@@ -2,7 +2,7 @@
 <h3 align="center">📱 Android App Developer from Bangladesh 🇧🇩</h3>
 <p align="center"><i>Building simple, useful apps that make everyday life easier — শূন্য থেকে শুরু।</i></p>
 
-🌐 **আমার সব অ্যাপ একসাথে:** [anowaranas.github.io](https://anowaranas.github.io/)
+🌐 **আমার সব অ্যাপ একসাথে:** [anowaranas.is-a.dev](https://anowaranas.is-a.dev)
 
 
 ---
